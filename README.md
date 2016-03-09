@@ -1,2 +1,5 @@
-# CSCI342-Lab1Android
-CSCI342 : Lab1 - Magic 8 Ball Android Studio
+-------- CSCI342 --------
+
+Lab1 - Magic 8 Ball
+
+Magic 8 Ball Java Android Studio Application
