@@ -62,15 +62,15 @@ public class EightBallModel extends AppCompatActivity {
 
     }
 
-    private String name;
-
-    // constructors and other methods omitted
-
+    // override the toString function to return the information of the current object
+    
     @Override
     public String toString() {
         return getClass().getSimpleName() + ", ArrayList: " + responseArray;
     }
 
+
+    // constructors and other methods omitted
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
