@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
         // output object to the console
         System.out.println(myFortune);
 
-        // emoji support??
+        // emoji support - doesn't support emojis because strings are 2bytes in size and
+        // emojis are bigger than this in size
 
         setContentView(R.layout.activity_main);
     }

@@ -63,7 +63,7 @@ public class EightBallModel extends AppCompatActivity {
     }
 
     // override the toString function to return the information of the current object
-    
+
     @Override
     public String toString() {
         return getClass().getSimpleName() + ", ArrayList: " + responseArray;
